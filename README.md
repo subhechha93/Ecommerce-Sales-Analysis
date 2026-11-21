@@ -147,5 +147,6 @@ This project demonstrates practical data analysis skills, including data quality
 The findings help management understand business performance, identify profitability problems and make informed decisions.
 
 ## Author
-**Your Name**
+**Subhechha Dhara**
+- GitHub: [subhechha93](https://github.com/subhechha93)
 - Email: dharasubhechha938@gmail.com
